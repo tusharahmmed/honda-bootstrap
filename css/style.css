@@ -1,0 +1,162 @@
+/*
+font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+body{
+font-family: 'Poppins', sans-serif;
+}
+.honda-btn-bg{
+    background-color: #E76F51;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+.honda-btn-bg:hover{
+    color: #fff;
+}
+.honda-bg-primary{
+    background-color: #264653;
+}
+h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+h3{
+    font-weight: 600;
+}
+h6{
+    font-size: 14px;
+    font-family: 600;
+}
+.text-orange{
+    color: #E76F51;
+}
+.honda-text-primary{
+    color: #23A6F0;
+}
+
+/* ================
+    Header Section
+    ============== */
+nav{
+    font-weight: 500;
+}
+.hero-container{
+    padding-bottom: 40px;
+}
+.hero-container p{
+    font-weight: 300;
+}
+
+/* ================
+    featured Section
+    ============== */
+
+
+.featured-title p{
+    font-size: 14px;
+    font-weight: 600;
+}
+.underline{
+    display: block;
+    width: 81px;
+    height: 2px;
+    background: #E76F51;
+    margin: 0 auto;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
+
+/* ================
+    client Section
+    ============== */
+
+
+.star-group .fas{
+    color: #E77C40;
+}
+.star-group .far{
+    color: #E77C40;
+}
+
+/* ================
+    News Section
+    ============== */
+
+.news-body h5{
+    font-weight: 600;
+    font-size: 28px;
+    margin: 15px 0px;
+}
+.news-body p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #6C6C6C;
+    line-height: 28px;
+}
+/* ================
+    carousel Section
+    ============== */
+
+.fa-chevron-left{
+    color: #da5026;
+}
+.fa-chevron-right{
+    color: #da5026;
+}
+/* ================
+    carousel Section
+    ============== */
+.rider-body p{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+/* ================
+    accordion Section
+    ============== */
+
+.frequently-thumb {
+    margin: auto;
+}
+.accordion-button{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+.accordion-body{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #7E848C;
+}
+/* ================
+    Footer Section
+    ============== */
+footer{
+    font-family: 'Manrope', sans-serif;
+}
+footer h4{
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+footer p{
+    font-size: 14px;
+    color: #d9dbe1be;
+}
+.bg-black{
+    background-color: #0B0D17;
+    color: #D9DBE1;
+}
+.w-85{
+    width: 85%;
+}
+.link-container a{
+    text-decoration: none;
+    color: #D9DBE1;
+    margin-right: 10px;
+    font-size: 16px;
+}
