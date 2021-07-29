@@ -1,3 +1,9 @@
+/** == == == == == ==
+Author: Tushar Ahmmed Sakib
+== == == == == == **/
+
+
+
 /*
 font-family: 'Inter', sans-serif;
 font-family: 'Manrope', sans-serif;
@@ -70,18 +76,6 @@ nav{
 }
 
 /* ================
-    client Section
-    ============== */
-
-
-.star-group .fas{
-    color: #E77C40;
-}
-.star-group .far{
-    color: #E77C40;
-}
-
-/* ================
     News Section
     ============== */
 
@@ -96,6 +90,17 @@ nav{
     color: #6C6C6C;
     line-height: 28px;
 }
+
+/* ================
+    client Section
+    ============== */
+    .star-group .fas{
+        color: #E77C40;
+    }
+    .star-group .far{
+        color: #E77C40;
+    }
+    
 /* ================
     carousel Section
     ============== */
@@ -107,7 +112,7 @@ nav{
     color: #da5026;
 }
 /* ================
-    carousel Section
+    rider Section
     ============== */
 .rider-body p{
     font-size: 14px;
